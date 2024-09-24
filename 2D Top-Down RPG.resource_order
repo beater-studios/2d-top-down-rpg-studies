@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Player","order":1,"path":"folders/Sprites/Player.yy",},
+    {"name":"Tiles","order":3,"path":"folders/Sprites/Tiles.yy",},
+    {"name":"Tileset","order":1,"path":"folders/Tileset.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_dust_run","order":1,"path":"objects/obj_dust_run/obj_dust_run.yy",},
+    {"name":"spr_dust_run_up","order":1,"path":"sprites/spr_dust_run_up/spr_dust_run_up.yy",},
+    {"name":"spr_jump","order":1,"path":"sprites/spr_jump/spr_jump.yy",},
+    {"name":"spr_roll","order":4,"path":"sprites/spr_roll/spr_roll.yy",},
+    {"name":"spr_spawn","order":3,"path":"sprites/spr_spawn/spr_spawn.yy",},
+    {"name":"spr_walk","order":2,"path":"sprites/spr_walk/spr_walk.yy",},
+  ],
+}
